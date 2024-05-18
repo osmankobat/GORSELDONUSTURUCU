@@ -21,14 +21,14 @@ Projeyi GitHub'dan klonlayın veya zip dosyası olarak indirin ve açın.
 
 
 
-git clone https://github.com/osmankobat/resim-donusturucu.git
+git clone https://github.com/osmankobat/GörselDönüştürücü.py.git
 cd resim-donusturucu
 Python Betiğini Çalıştırın
 Aşağıdaki komutu kullanarak betiği çalıştırın:
 
 
 
-python resim_donusturucu.py
+python GörselDönüştürücü.py
 Görsel Dosyasını Seçin
 "Görsel Dosyasını Seçiniz" butonuna tıklayarak dönüştürmek istediğiniz görsel dosyasını seçin.
 
